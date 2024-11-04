@@ -156,5 +156,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📮 Contact
 
 - Create an issue for bug reports or feature requests
-- Connect with me on [LinkedIn](your-linkedin-url)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/tej-desai-a4858b62/)
 - Star the repository if you find it helpful!
